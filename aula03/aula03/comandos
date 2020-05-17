@@ -1,0 +1,3 @@
+pip install <nome biblioteca> -- instalando bibliotecas
+streamlit run app.py --rodar o data app
+usar um editor de preferência para rodar
